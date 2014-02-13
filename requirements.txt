@@ -34,7 +34,7 @@ django-socialregistration==0.5.1
 django-storages==1.1.8
 django-supervisor==0.3.1
 django-tables2==0.14.0
-facebook-sdk==0.2.0
+docutils==0.11
 flower==0.5.2
 httplib2==0.7.2
 importlib==1.0.2
